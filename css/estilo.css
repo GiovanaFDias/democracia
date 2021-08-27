@@ -7,29 +7,34 @@ body{
 	font-family: 'Roboto Mono', monospace;;
 }
 
-
 figure{
-	height: 120%;
-	width: 120%;
+	height: 1%;
+	width: 1%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 
 }
 
+
 img{
-	height: 12%;
-	width: 12%;
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
+	height: 1%;
+	width: 1%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 
 h1{
 	text-align: center;
-	font-size: 40px; 
+	font-size: 40px;
+
 }
 
 h2{
 	font-size: 25px;
+	background: #B7F4BE; 
 }
  h4{
  	font-size: 20px;
