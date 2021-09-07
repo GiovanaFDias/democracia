@@ -1,8 +1,8 @@
 body{
 
 	background-color:white;
-	margin-left: 10%;
-	margin-right: 10%;
+	margin-left: 5%;
+	margin-right: 5%;
 	font-family: 'Amatic SC', cursive;
 	font-family: 'Roboto Mono', monospace;;
 }
@@ -14,8 +14,8 @@ figure{
 
 
 img{
-	height: 15%;
-	width: 15%;
+	height: 10%;
+	width: 10%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -27,22 +27,21 @@ img{
 
 h1{
 	text-align: center;
-	font-size: 40px;
-
+	font-size: 250%;
 }
 
 h2{
-	font-size: 25px;
+	font-size: 156%;
 	background: #B7F4BE; 
 }
  h4{
- 	font-size: 20px;
+ 	font-size: 125%;
  	S
  }
 p{
 	text-align: justify;
-	font-size: 18px;
-	text-indent: 18px;
+	font-size: 112%;
+	text-indent: 112%;
 	font-weight: normal;
 }
 
