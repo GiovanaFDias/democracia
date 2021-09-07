@@ -8,23 +8,22 @@ body{
 }
 
 figure{
-	height: 1%;
-	width: 1%;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-
+	
+	text-align: center;
 }
 
 
 img{
-	height: 1%;
-	width: 1%;
+	height: 15%;
+	width: 15%;
 	margin-left: auto;
 	margin-right: auto;
 }
+.imagens{
 
+	
+	width: 100%;
+}
 
 h1{
 	text-align: center;
